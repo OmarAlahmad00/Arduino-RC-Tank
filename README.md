@@ -19,3 +19,7 @@ The arduino has a shield to turn the motors of the tank
 The arduino depends on input from different pins in order to control the motors
 The ESP-8266 outputs to different pins on the arduino depending on what is clicked through the app or on the website
 The tank moves
+
+
+
+EDIT --- I WAS LOOKING THROUGH OLD PROJECTS FOR FUN AND FOUND OUT THAT THE .INO FILE DOES NOT WORK FOR THE ESP. NOT SURE WHY. I UPLOADED THE FILE I FOUND ON MY LAPTOP BUT NOT SURE IF IT IS THE UPDATED ONE. SHOULD BE THOUGH IT WAS A SIMPLE PROGRAM.
